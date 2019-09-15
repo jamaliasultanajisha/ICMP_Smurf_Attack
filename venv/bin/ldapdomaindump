@@ -1,0 +1,3 @@
+#!/home/jisha/Documents/test/venv/bin/python
+import ldapdomaindump
+ldapdomaindump.main()
